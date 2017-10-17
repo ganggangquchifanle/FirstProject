@@ -71,7 +71,7 @@ public class Main {
     /** 
      * 生成一个简单的Department对象 
      * @return 
-     *//*  
+     */  
     private static Department getSimpleDepartment() {  
         List<Staff> staffs = new ArrayList<Staff>();  
           
@@ -98,5 +98,5 @@ public class Main {
         dept.setStaffs(staffs);  
         //System.out.println(JSON.toJSONString(dept));
         return dept;  
-    }  */
+    }
 }
